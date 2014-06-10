@@ -1,0 +1,89 @@
+Part Extents:
+0.572216 <= x <= 4.92778
+0.318312 <= y <= 5.18169
+0.0001 <= z <= 0.0923462
+12452 output triangles
+12452 input triangles
+0 degenerate sided triangles removed
+0 narrow-gap filling triangles created
+0 wide-gap filling triangles created
+0 triangles reoriented
+0 unmatched triangle sides
+19 distinct shells:
+Shell volume: 0.270152	(num triangles: 60)
+0.572216 <= x <= 4.92778
+0.318312 <= y <= 5.18169
+0.0001 <= z <= 0.0923462
+Shell volume: 0.00176993	(num triangles: 116)
+2.72953 <= x <= 2.96155
+3.50067 <= y <= 3.7054
+0.0287288 <= z <= 0.0821069
+Shell volume: 0.0280209	(num triangles: 3268)
+0.859665 <= x <= 4.64033
+0.716356 <= y <= 4.78364
+0.0287288 <= z <= 0.0821069
+Shell volume: 0.00170529	(num triangles: 176)
+3.04345 <= x <= 3.38466
+3.39149 <= y <= 3.66446
+0.0287288 <= z <= 0.0821069
+Shell volume: 0.000810399	(num triangles: 112)
+2.9752 <= x <= 3.13898
+3.66446 <= y <= 3.96473
+0.0287288 <= z <= 0.0821069
+Shell volume: 0.00765541	(num triangles: 872)
+1.70588 <= x <= 4.34006
+2.55892 <= y <= 3.56892
+0.0287288 <= z <= 0.0821069
+Shell volume: 0.00853659	(num triangles: 936)
+1.78777 <= x <= 3.73952
+2.65446 <= y <= 3.63716
+0.0287288 <= z <= 0.0821069
+Shell volume: 0.00234664	(num triangles: 260)
+3.42561 <= x <= 4.06709
+3.06392 <= y <= 3.30959
+0.0287288 <= z <= 0.0821069
+Shell volume: 0.00333476	(num triangles: 428)
+2.5248 <= x <= 3.37101
+3.97838 <= y <= 4.2104
+0.0287288 <= z <= 0.0821069
+Shell volume: 0.000238651	(num triangles: 28)
+2.81142 <= x <= 2.9479
+3.89648 <= y <= 3.95108
+0.0287288 <= z <= 0.0821069
+Shell volume: 0.0011212	(num triangles: 428)
+2.53334 <= x <= 3.3604
+3.98899 <= y <= 4.20186
+0.0287288 <= z <= 0.0748322
+Shell volume: 0.0102839	(num triangles: 3268)
+0.870281 <= x <= 4.63179
+0.726969 <= y <= 4.7751
+0.0287288 <= z <= 0.0744274
+Shell volume: 0.00270096	(num triangles: 936)
+1.79631 <= x <= 3.73098
+2.66507 <= y <= 3.62862
+0.0287288 <= z <= 0.0744274
+Shell volume: 0.00274307	(num triangles: 872)
+1.7165 <= x <= 4.33152
+2.56953 <= y <= 3.56037
+0.0287288 <= z <= 0.0744274
+Shell volume: 0.000242323	(num triangles: 112)
+2.98375 <= x <= 3.13044
+3.673 <= y <= 3.95411
+0.0287288 <= z <= 0.0744274
+Shell volume: 6.41949e-005	(num triangles: 28)
+2.81996 <= x <= 2.93936
+3.90503 <= y <= 3.94253
+0.0287288 <= z <= 0.0744274
+Shell volume: 0.000796111	(num triangles: 176)
+3.05199 <= x <= 3.37405
+3.40003 <= y <= 3.65384
+0.0287288 <= z <= 0.0744274
+Shell volume: 0.0011424	(num triangles: 116)
+2.73807 <= x <= 2.95301
+3.51129 <= y <= 3.69479
+0.0287288 <= z <= 0.0744274
+Shell volume: 0.000653921	(num triangles: 260)
+3.43415 <= x <= 4.05855
+3.07246 <= y <= 3.30105
+0.0287288 <= z <= 0.0744274
+D:\dev\projects\EdgePrint\hugo_cubify_v.stl was GOOD

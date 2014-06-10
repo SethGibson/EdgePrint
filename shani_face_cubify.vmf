@@ -1,0 +1,77 @@
+Part Extents:
+0.868515 <= x <= 4.63148
+0.295887 <= y <= 5.20411
+0.0001 <= z <= 0.147848
+9392 output triangles
+9392 input triangles
+0 degenerate sided triangles removed
+0 narrow-gap filling triangles created
+0 wide-gap filling triangles created
+9332 triangles reoriented
+0 unmatched triangle sides
+16 distinct shells:
+Shell volume: -0.00387501	(num triangles: 588)
+4.10803 <= x <= 4.30922
+0.5168 <= y <= 2.12631
+0.0547045 <= z <= 0.147848
+Shell volume: -0.0020972	(num triangles: 404)
+3.10208 <= x <= 3.66541
+2.44822 <= y <= 2.77012
+0.0547045 <= z <= 0.147848
+Shell volume: -0.00251632	(num triangles: 604)
+2.92101 <= x <= 3.64529
+2.83047 <= y <= 3.1725
+0.0547045 <= z <= 0.147848
+Shell volume: -0.00698706	(num triangles: 1300)
+1.33162 <= x <= 2.82042
+0.697868 <= y <= 2.28727
+0.0547045 <= z <= 0.147848
+Shell volume: -0.00551252	(num triangles: 980)
+2.92101 <= x <= 3.84648
+0.5168 <= y <= 3.29321
+0.0547045 <= z <= 0.147848
+Shell volume: -0.000423006	(num triangles: 108)
+4.02755 <= x <= 4.14827
+3.23285 <= y <= 3.43404
+0.0547045 <= z <= 0.147848
+Shell volume: -0.000689176	(num triangles: 108)
+2.6997 <= x <= 2.78018
+2.0056 <= y <= 2.40798
+0.0547045 <= z <= 0.147848
+Shell volume: -0.0022338	(num triangles: 268)
+4.16838 <= x <= 4.30922
+2.10619 <= y <= 3.45416
+0.0547045 <= z <= 0.147848
+Shell volume: -0.00666012	(num triangles: 1188)
+2.11625 <= x <= 2.98137
+1.36179 <= y <= 2.81036
+0.0547045 <= z <= 0.147848
+Shell volume: -0.0100183	(num triangles: 2124)
+1.19078 <= x <= 4.10803
+3.4944 <= y <= 4.9832
+0.0547045 <= z <= 0.147848
+Shell volume: -0.00410908	(num triangles: 868)
+1.19078 <= x <= 2.53875
+3.09202 <= y <= 4.74177
+0.0547045 <= z <= 0.147848
+Shell volume: -0.0010448	(num triangles: 164)
+2.86065 <= x <= 3.26303
+1.32156 <= y <= 1.48251
+0.0547045 <= z <= 0.147848
+Shell volume: -0.00124689	(num triangles: 348)
+2.33756 <= x <= 2.96125
+4.52046 <= y <= 4.80213
+0.0547045 <= z <= 0.147848
+Shell volume: -0.00148179	(num triangles: 156)
+2.07602 <= x <= 2.98137
+1.22096 <= y <= 1.38191
+0.0547045 <= z <= 0.147848
+Shell volume: -0.000669874	(num triangles: 124)
+2.31744 <= x <= 2.59911
+3.27309 <= y <= 3.51452
+0.0547045 <= z <= 0.147848
+Shell volume: 0.301009	(num triangles: 60)
+0.868515 <= x <= 4.63148
+0.295887 <= y <= 5.20411
+0.0001 <= z <= 0.098812
+D:\dev\projects\EdgePrint\shani_face_cubify.stl was BAD
